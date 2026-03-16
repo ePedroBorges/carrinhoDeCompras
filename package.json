@@ -1,0 +1,10 @@
+{
+  "name": "carrinho_de_compras",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Pedro Borges",
+  "license": "ISC"
+}
